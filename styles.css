@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+}
+.top_container{
+    margin-left: 220px;
+    margin-bottom: 20px;
+    margin-right: 220px;
+}
+#buttondiv{
+    position: relative;
+    margin-left: 520px  ;
+    margin-right: 450px;
+}
+
+#color{
+    margin-left: 90px;
+}
+#bw{
+    margin-left: 80px;
+}
+#main_container{
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: white;
+    height: 550px;
+}
+
